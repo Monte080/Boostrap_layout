@@ -1,0 +1,18 @@
+
+*body{
+    box-sizing: border-box;
+    margin: o;
+    padding: 0;
+}
+
+    
+.col-md-2 p, .col-md-8 p{
+    height: 400px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
